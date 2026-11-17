@@ -24,7 +24,6 @@
 | `GameStore_U3.asm` | Código fuente de la versión de la Unidad 3 |
 | `GameStore_U2.asm` | Código fuente de la versión de la Unidad 2 (para comparar) |
 | `inventario.txt` | Archivo de inventario de prueba con 4 juegos |
-| `inventario_invalido.txt` | Archivo dañado para probar el rechazo (renómbralo a `inventario.txt` para usarlo) |
 
 ## Requisitos
 
